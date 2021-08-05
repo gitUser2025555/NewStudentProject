@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\USER\\source\\repos\\StudentProject\\StudentProject.csproj",
+      "projectUniqueName": "C:\\Users\\USER\\source\\repos\\DevTeamProject\\StudentProject.csproj",
       "projectName": "StudentProject",
-      "projectPath": "C:\\Users\\USER\\source\\repos\\StudentProject\\StudentProject.csproj",
+      "projectPath": "C:\\Users\\USER\\source\\repos\\DevTeamProject\\StudentProject.csproj",
       "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\USER\\source\\repos\\StudentProject\\obj\\",
+      "outputPath": "C:\\Users\\USER\\source\\repos\\DevTeamProject\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
