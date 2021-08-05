@@ -34,3 +34,4 @@ C:\Users\USER\source\repos\StudentProject\obj\Debug\net5.0\StudentProject.dll
 C:\Users\USER\source\repos\StudentProject\obj\Debug\net5.0\StudentProject.pdb
 C:\Users\USER\source\repos\StudentProject\obj\Debug\net5.0\StudentProject.genruntimeconfig.cache
 C:\Users\USER\source\repos\StudentProject\obj\Debug\net5.0\StudentProject.csproj.CopyComplete
+C:\Users\USER\source\repos\StudentProject\obj\Debug\net5.0\StudentProject.csprojAssemblyReference.cache
